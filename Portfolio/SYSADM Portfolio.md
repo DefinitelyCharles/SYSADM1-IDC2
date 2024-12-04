@@ -1,12 +1,12 @@
 ﻿
 <table><tr><th colspan="3" valign="bottom"></p><p>![image](https://github.com/user-attachments/assets/465b3a99-166a-4888-b2b1-fef3b4d22622)
 </p><p>SCHOOL OF INFORMATION TECHNOLOGY</p></th></tr>
-<tr><td colspan="2" valign="bottom">NAME: Charles Hanzel D. Gerardo</td></tr>
-<tr><td valign="bottom">SECTION:</td><td valign="bottom">DATE SUBMITTED:</td></tr>
+<tr><td colspan="2" valign="bottom">NAME:     Charles Hanzel D. Gerardo</td></tr>
+<tr><td valign="bottom">SECTION: IDC 2</td><td valign="bottom">DATE SUBMITTED:</td></tr>
 </table>
-# **<SUBJECT CODE> PORTFOLIO**
-
-<a name="_heading=h.gjdgxs"></a>**Table of Contents**
+SYSADM PORTFOLIO
+<br><br><br>
+<a name="_heading=h.gjdgxs"></a>Table of Contents
 
 |**Name of Activities**|**Date of Activity**|**Page No.**|
 | :- | :- | :- |
