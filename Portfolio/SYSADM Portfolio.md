@@ -1,6 +1,7 @@
 ﻿
-<table><tr><th colspan="3" valign="bottom"></p><p></p><p>SCHOOL OF INFORMATION TECHNOLOGY</p></th></tr>
-<tr><td colspan="2" valign="bottom">NAME: </td><td rowspan="1" valign="bottom"> </td></tr>
+<table><tr><th colspan="3" valign="bottom"></p><p>![image](https://github.com/user-attachments/assets/ae928ed9-8452-4362-91a0-7db0f6c2b924)
+</p><p>SCHOOL OF INFORMATION TECHNOLOGY</p></th></tr>
+<tr><td colspan="2" valign="bottom">NAME: Charles Hanzel D. Gerardo</td></tr>
 <tr><td valign="bottom">SECTION:</td><td valign="bottom">DATE SUBMITTED:</td></tr>
 </table>
 # **<SUBJECT CODE> PORTFOLIO**
