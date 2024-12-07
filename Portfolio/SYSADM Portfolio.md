@@ -55,11 +55,15 @@ SYSADM PORTFOLIO
 
 **Course Reflection**
 
+||
+| :- |
 What were your initial expectations for the course? Did the course meet, exceed, or fall short of these expectations?
+I was expecting it to be difficult, because its been 1 year since the last time i did anything related with setting up, like installing an operating system and configuring it after. Just as expected, it was difficult due to my inexperience.
 
 ||
 | :- |
 What were the main topics or concepts covered in the course? How did these topics contribute to your understanding of the subject matter?
+
 
 ||
 | :- |
