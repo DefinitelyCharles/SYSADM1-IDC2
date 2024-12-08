@@ -25,7 +25,7 @@ SYSADM PORTFOLIO
 |Quizzes And Activities|||
 |Keribos Lab Activity|Nov. 14, 2024||
 |Windows Administrative Tools|Nov. 21, 2024||
-|Git Basics|||
+|Git Basics|Nov. 21, 2024||
 |Course Reflection|||
 
 **Evolutions of Server Administration: From Manual to Automated**
